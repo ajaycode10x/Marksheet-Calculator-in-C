@@ -41,6 +41,6 @@ else if (mark < 30)
 	printf("FAIL \n");
 	}
 
-//	printf("\n Best of luck");
+	printf("\n Best of luck");
 	return 0;
 }
